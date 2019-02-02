@@ -1,0 +1,36 @@
+Script started on Fri 01 Feb 2019 06:24:26 PM PST
+]0;pham066@empress:~/CS311Progs/HWPrograms/forHW1/HW1P1_stack[?1034h[pham066@empress HW1P1_stack]$ ex./a.oug++ stack.cpp client1.cpp
+]0;pham066@empress:~/CS311Progs/HWPrograms/forHW1/HW1P1_stack[pham066@empress HW1P1_stack]$ ./a.out
+type a postfix expression: 34+
+Stack result: 7
+]0;pham066@empress:~/CS311Progs/HWPrograms/forHW1/HW1P1_stack[pham066@empress HW1P1_stack]$ ./a.out
+type a postfix expression: 345+*
+Stack result: 27
+]0;pham066@empress:~/CS311Progs/HWPrograms/forHW1/HW1P1_stack[pham066@empress HW1P1_stack]$ ./a.out
+type a postfix expression: 722+-
+Stack result: 3
+]0;pham066@empress:~/CS311Progs/HWPrograms/forHW1/HW1P1_stack[pham066@empress HW1P1_stack]$ ./a.out
+type a postfix expression: 34+56++
+Stack result: 18
+]0;pham066@empress:~/CS311Progs/HWPrograms/forHW1/HW1P1_stack[pham066@empress HW1P1_stack]$ ./a.out
+type a postfix expression: 12+34*45+-+
+Stack result: 6
+]0;pham066@empress:~/CS311Progs/HWPrograms/forHW1/HW1P1_stack[pham066@empress HW1P1_stack]$ ./a.out
+type a postfix expression: 1234567891234
+**Error**: expression not complete.
+]0;pham066@empress:~/CS311Progs/HWPrograms/forHW1/HW1P1_stack[pham066@empress HW1P1_stack]$ ./a.out
+type a postfix expression: +
+**Error**: Not enough number in this expression.
+]0;pham066@empress:~/CS311Progs/HWPrograms/forHW1/HW1P1_stack[pham066@empress HW1P1_stack]$ ./a.out
+type a postfix expression: 3+
+**Error**: Not enough number in this expression.
+]0;pham066@empress:~/CS311Progs/HWPrograms/forHW1/HW1P1_stack[pham066@empress HW1P1_stack]$ ./a.out
+type a postfix expression: 3#
+**Error**: Not enough number in this expression.
+]0;pham066@empress:~/CS311Progs/HWPrograms/forHW1/HW1P1_stack[pham066@empress HW1P1_stack]$ ./a.out
+type a postfix expression: 2345+
+**Error**: expression not complete.
+]0;pham066@empress:~/CS311Progs/HWPrograms/forHW1/HW1P1_stack[pham066@empress HW1P1_stack]$ exit
+exit
+
+Script done on Fri 01 Feb 2019 06:26:07 PM PST
